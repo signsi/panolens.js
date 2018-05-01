@@ -29,8 +29,11 @@
     "gulp-jsdoc3": "^1.0.1",
     "gulp-strip-debug": "^1.1.0",
     "gulp-uglify": "^2.1.2",
+    "iphone-inline-video": "^2.2.2",
     "three": "^0.86.0",
-    "tween.js": "^16.6.0",
-    "iphone-inline-video": "^2.2.2"
+    "tween.js": "^16.6.0"
+  },
+  "dependencies": {
+    "three.js": "^0.77.1"
   }
 }
