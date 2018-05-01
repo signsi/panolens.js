@@ -11,6 +11,7 @@ var _libfiles = [
     'src/lib/modifier/BendModifier.js',
     'src/lib/effects/CardboardEffect.js',
     'node_modules/three/examples/js/effects/StereoEffect.js',
+    'node_modules/three/build/three.min.js',
     'src/lib/GSVPano.js'
 ];
 
