@@ -4,7 +4,6 @@ var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
 
 var _libfiles = [
-    'node_modules/three/build/three.min.js',
     'node_modules/iphone-inline-video/dist/iphone-inline-video.min.js',
     'node_modules/tween.js/src/Tween.js',
     'src/lib/controls/OrbitControls.js',
